@@ -36,7 +36,7 @@ python extract.py data/invoices     # writes output/invoices.xlsx
 
 To read your own invoices: `python extract.py path/to/invoices --out results`.
 
-![A run of the extractor](assets/run.png)
+![The three layouts, a run of the extractor, and the workbook it writes](assets/demo.gif)
 
 ## Result on the sample invoices
 
