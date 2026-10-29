@@ -1,5 +1,7 @@
 # PDF Invoice Extractor
 
+[![tests](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
+
 Reads a folder of PDF invoices from different suppliers, each with its own layout, into one Excel workbook,
 and checks that every invoice adds up.
 
